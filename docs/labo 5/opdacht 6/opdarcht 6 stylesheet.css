@@ -1,0 +1,36 @@
+/* Opmaak voor H1 */
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 1.8em;
+}
+
+/* Opmaak voor H2 */
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 1.5em;
+}
+
+/* Opmaak voor H3 */
+h3 {
+    font-family: Arial, sans-serif;
+    font-size: 1.4em;
+}
+/* Opmaak voor paragrafen */
+p {
+    font-family: "Times New Roman", serif;
+    font-size: 1.2em;
+}
+    /* 3 verschillende kleuren */
+/* Opmaak voor de tekst in rood */
+.red-text {
+    color: red;
+}
+.green-text {
+    color: green;
+}
+.blue-text {
+    color: blue;
+}
+
+
+
