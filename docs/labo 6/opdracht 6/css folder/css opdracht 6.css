@@ -1,0 +1,11 @@
+.checklist li {
+    list-style-type: none;
+    padding-left: 20px;
+    background-image: url('docs/labo 6/opdracht 6/image map/checkbox.png');
+    background-repeat: no-repeat;
+    background-position: 0 3px;
+}
+
+.checklist li.checked {
+    background-image: url('docs/labo 6/opdracht 6/image map/checkbox.png');
+}

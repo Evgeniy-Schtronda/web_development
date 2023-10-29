@@ -1,0 +1,12 @@
+.icon-link {
+    background-image: url('docs/labo 6/opdracht 5/image map/paper_clip.png');
+    background-position: left center;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+
+
+.icon-link a{
+    color: #0077CC;
+    text-decoration: none;
+}
