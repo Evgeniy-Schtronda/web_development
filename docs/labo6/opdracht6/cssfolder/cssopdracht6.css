@@ -1,11 +1,12 @@
 .checklist li {
     list-style-type: none;
     padding-left: 20px;
-    background-image: url('/docs/labo6/opdracht6/imagemap/checkbox.png');
+    background-image: url(../imagemap/checkbox.png);
     background-repeat: no-repeat;
     background-position: 0 3px;
+    background-size: 16px;
 }
 
 .checklist li.checked {
-    background-image: url('/docs/labo6/opdracht6/imagemap/checkbox.png');
+    background-image: url(../imagemap/checkbox.png);
 }
