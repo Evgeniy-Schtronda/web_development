@@ -1,6 +1,6 @@
 html {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 
@@ -60,4 +60,12 @@ a {
     padding: 10px;
     color: white;
     border-radius: 4px;
+}
+
+.container {
+    /* flex-eigenschappen */
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
 }
